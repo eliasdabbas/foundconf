@@ -1,7 +1,7 @@
 ![](foundconf_logo.png)
 
 
-# Presentation repo for Search ‘n Stuff Antalya Global Digital Marketing Conference 2025
+# Presentation repo for FOUND Conference – Tokyo 2025
 
 Feel free to share any feedback, bugs, suggestions, or questions through the [issues tab.](https://github.com/eliasdabbas/searchnstuff/issues)
 
