@@ -1,5 +1,6 @@
-![](foundconf_logo.png)
-
+<div align="center">
+<img src="foundconf_logo.png" width=400>
+</div><br><br>
 
 # Presentation repo for FOUND Conference – Tokyo 2025
 
@@ -14,4 +15,3 @@ Install Python, install a few packages, and get started by crawling a website, a
 Get started with the absolute basics. Zero knowledge required. Create variables, use variables, create lists, install packages.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/foundconf/blob/main/beginners_workshop.ipynb)
-
