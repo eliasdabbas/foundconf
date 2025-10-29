@@ -16,8 +16,11 @@ Get started with the absolute basics. Zero knowledge required. Create variables,
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/foundconf/blob/main/beginners_workshop.ipynb)
 
-## [Sorting Tables](sorting_tables.ipynb)
+## [Mini Website Audit](mini_audit.ipynb)
 
-Explore a more advanced table sorting technique for better insights on your data
+- Crawl a website
+- Fetch its XML sitemap
+- Compare URLs (crawled vs sitemap)
+- Run an LLM process in bulk on all pages (summary)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/foundconf/blob/main/sorting_tables.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasdabbas/foundconf/blob/main/mini_audit.ipynb)
